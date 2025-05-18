@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sudeep Chakravarty
+
+🎓 MS in Information Systems (MSIS) | Future Project Manager | Tech + Strategy Enthusiast
+
+I'm passionate about bridging the gap between technology and business through effective project execution, process improvement, and data-driven decision-making.
+
+---
+
+## ⚙️ What I’m Currently Doing
+- Pursuing MSIS in the USA (Jan 2026 intake)
+- Learning Agile, Jira, and Project Tools
+- Exploring Excel, Power BI, SQL for data storytelling
+- Working on personal productivity and leadership skills
+
+---
+
+## 🧠 Skills & Tools
+- **Project Tools:** Jira, Trello, Asana, Confluence  
+- **Data & Reporting:** Power BI, Excel, SQL  
+- **Management Concepts:** Agile, Scrum, SDLC, Stakeholder Communication
+
+---
+
+## 📈 Career Goals
+- Short-Term: Become a Technical/Software Project Manager  
+- Long-Term: Launch my own tech-driven business in the USA, Dubai, or Canada
+
+---
+
+## 🌐 Let's Connect
+- [LinkedIn Profile]( https://www.linkedin.com/in/sudeep-chakravarty-51142422b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: sudeepc380@gmail.com
+
+---
+
+*“Success doesn’t come from what you do occasionally, it comes from what you do consistently.”*
 
 <!--
 **Sudeepxe/Sudeepxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
