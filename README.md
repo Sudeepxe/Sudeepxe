@@ -1,13 +1,13 @@
 # Hi, I'm Sudeep Chakravarty
 
-🎓 MS in Information Systems (MSIS) | Future Project Manager | Tech + Strategy Enthusiast
+🎓 MSc in Advanced Computer Science with Data Science (MSc ACS with DS) | Future AI/ML Engineer | Tech + Strategy Enthusiast
 
 I'm passionate about bridging the gap between technology and business through effective project execution, process improvement, and data-driven decision-making.
 
 ---
 
 ## ⚙️ What I’m Currently Doing
-- Pursuing MSIS in the USA (Jan 2026 intake)
+- Pursuing MSc ACS with DS in the UK (Jan 2026 intake)
 - Learning Agile, Jira, and Project Tools
 - Exploring Excel, Power BI, SQL for data storytelling
 - Working on personal productivity and leadership skills
@@ -22,8 +22,8 @@ I'm passionate about bridging the gap between technology and business through ef
 ---
 
 ## 📈 Career Goals
-- Short-Term: Become a Technical/Software Project Manager  
-- Long-Term: Launch my own tech-driven business in the USA, Dubai, or Canada
+- Short-Term: Become an AI/ML Engineer/Applied Scientist/AI Platform Engineer 
+- Long-Term: Launch my own tech-driven business in the UK, Dubai, or Canada
 
 ---
 
