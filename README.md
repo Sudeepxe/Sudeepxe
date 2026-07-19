@@ -1,51 +1,41 @@
-# Hi, I'm Sudeep Chakravarty
+# Hi, I'm Sudeep Chakravarty 👋
 
-🎓 MSc in Advanced Computer Science with Data Science (MSc ACS with DS) | Future AI/ML Engineer | Tech + Strategy Enthusiast
+### MSc Computer Science (Data Science) Student · Transitioning into AI/ML Engineering
 
-I'm passionate about bridging the gap between technology and business through effective project execution, process improvement, and data-driven decision-making.
+I'm an MSc student in Advanced Computer Science with Data Science (UK, starting Jan 2026), building toward a career as an AI/ML Engineer. I bring a background in project management and Agile delivery, and I'm now deliberately building the technical foundation - math, statistics, Python, and machine learning - to move into applied ML work.
 
----
-
-## ⚙️ What I’m Currently Doing
-- Pursuing MSc ACS with DS in the UK (Jan 2026 intake)
-- Learning Agile, Jira, and Project Tools
-- Exploring Excel, Power BI, SQL for data storytelling
-- Working on personal productivity and leadership skills
+I'm early in this transition and I'm being upfront about it: this profile tracks what I'm actually learning, not a finished skill set.
 
 ---
 
-## 🧠 Skills & Tools
-- **Project Tools:** Jira, Trello, Asana, Confluence  
-- **Data & Reporting:** Power BI, Excel, SQL  
-- **Management Concepts:** Agile, Scrum, SDLC, Stakeholder Communication
+## Currently Learning
+
+- Python for data analysis and machine learning (NumPy, Pandas, scikit-learn fundamentals)
+- Statistics and linear algebra foundations for ML
+- SQL for data querying and analysis
+- Core ML concepts: supervised learning, model evaluation, feature engineering
 
 ---
 
-## 📈 Career Goals
-- Short-Term: Become an AI/ML Engineer/Applied Scientist/AI Platform Engineer 
-- Long-Term: Launch my own tech-driven business in the UK, Dubai, or Canada
+## Tech and Tools
+
+- Languages: Python, SQL
+- Data and Analysis: Pandas, NumPy, Excel, Power BI
+- ML Fundamentals: scikit-learn (learning), statistics
+- Project and Delivery background: Jira, Trello, Confluence, Agile/Scrum
 
 ---
 
-## 🌐 Let's Connect
-- [LinkedIn Profile]( https://www.linkedin.com/in/sudeep-chakravarty-51142422b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Goals
+
+- Short-term: Build a solid ML foundation through my MSc and hands-on projects; land an entry-level AI/ML Engineer or Applied ML role.
+- Long-term: Combine my technical and project-delivery background to lead applied AI initiatives, and eventually build something of my own.
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/sudeep-chakravarty-51142422b
 - Email: sudeepc380@gmail.com
 
----
-
-*“Success doesn’t come from what you do occasionally, it comes from what you do consistently.”*
-
-<!--
-**Sudeepxe/Sudeepxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Success doesn't come from what you do occasionally, it comes from what you do consistently."*
